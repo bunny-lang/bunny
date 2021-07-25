@@ -27,3 +27,8 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# ignore Visual Studio Code and other IDE files
+.vscode
+.DS_store
+.idea
